@@ -1,0 +1,565 @@
+Uri: https://api-maps.yandex.ru/2.1/?lang=ru_RU
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\2.1\json.txt
+Content Type: application/javascript
+
+Uri: https://api.iport.ru/files/pdf/oferta-footer.pdf
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\files\pdf\oferta-footer.pdf
+Content Type: application/pdf
+
+Uri: /
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\index-1.htm
+Content Type: text/html
+
+Uri: /artist/all-in-orchestra/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\artist\all-in-orchestra\index.htm
+Content Type: text/html
+
+Uri: /artist/amy-pieterse/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\artist\amy-pieterse\index.htm
+Content Type: text/html
+
+Uri: /artist/jessy-lanza/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\artist\jessy-lanza\index.htm
+Content Type: text/html
+
+Uri: /artist/kadebostany/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\artist\kadebostany\index.htm
+Content Type: text/html
+
+Uri: /artist/kamaal-williams/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\artist\kamaal-williams\index.htm
+Content Type: text/html
+
+Uri: /artist/kito-jempere-band/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\artist\kito-jempere-band\index.htm
+Content Type: text/html
+
+Uri: /artist/little-dragon/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\artist\little-dragon\index.htm
+Content Type: text/html
+
+Uri: /artist/long-arm/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\artist\long-arm\index.htm
+Content Type: text/html
+
+Uri: /artist/naadya/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\artist\naadya\index.htm
+Content Type: text/html
+
+Uri: /assets/images/2_orange_primer.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\2_orange_primer.png
+Content Type: image/png
+
+Uri: /assets/images/90_ls.1520759066.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\90_ls.1520759066.jpg
+Content Type: image/jpeg
+
+Uri: /assets/images/Afisha-Logo_CMYK.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\Afisha-Logo_CMYK.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/background/desktop_red@2x.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\background\desktop_red@2x.png
+Content Type: image/png
+
+Uri: /assets/images/background/first_screen.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\background\first_screen.png
+Content Type: image/png
+
+Uri: /assets/images/background/lines/desktop_dark.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\background\lines\desktop_dark.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/background/lines/desktop_gray.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\background\lines\desktop_gray.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/background/lines/desktop_purple.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\background\lines\desktop_purple.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/background/lines/mobile_purple.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\background\lines\mobile_purple.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/background/logo/blue.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\background\logo\blue.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/background/menu_scroll.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\background\menu_scroll.png
+Content Type: image/png
+
+Uri: /assets/images/background/noise/desktop_red.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\background\noise\desktop_red.png
+Content Type: image/png
+
+Uri: /assets/images/background/popup back.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\background\popup back.png
+Content Type: image/png
+
+Uri: /assets/images/background/popup lines.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\background\popup lines.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/desktop.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\desktop.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/Europa_Plus_LOGO.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\Europa_Plus_LOGO.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/gismeteo-b-w.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\gismeteo-b-w.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/guest dark.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\guest dark.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/guest.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\guest.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/jbl.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\jbl.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/kassir.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\kassir.png
+Content Type: image/png
+
+Uri: /assets/images/kidburg.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\kidburg.png
+Content Type: image/png
+
+Uri: /assets/images/kinoafisha.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\kinoafisha.png
+Content Type: image/png
+
+Uri: /assets/images/logop2_invert_horizont.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\logop2_invert_horizont.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/logo_lu_white.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\logo_lu_white.png
+Content Type: image/png
+
+Uri: /assets/images/Megafon2.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\Megafon2.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/MegaFon_LOGO_small.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\MegaFon_LOGO_small.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/morebilet.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\morebilet.jpg
+Content Type: image/jpeg
+
+Uri: /assets/images/NEWmixmag.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\NEWmixmag.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/numbers/01 desktop.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\numbers\01 desktop.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/numbers/02 desktop.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\numbers\02 desktop.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/numbers/03 desktop.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\numbers\03 desktop.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/numbers/04_desktop.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\numbers\04_desktop.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/numbers/05_desktop.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\numbers\05_desktop.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/numbers/06_desktop.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\numbers\06_desktop.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/numbers/07_desktop.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\numbers\07_desktop.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/onebilet.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\onebilet.jpg
+Content Type: image/jpeg
+
+Uri: /assets/images/pause-button.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\pause-button.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/play-button.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\play-button.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/sarafanpr_logo-1.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\sarafanpr_logo-1.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/scheme.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\scheme.png
+Content Type: image/png
+
+Uri: /assets/images/spb_tv1-1.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\spb_tv1-1.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/sprite/sprite-1f841224.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\sprite\sprite-1f841224.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/test.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\test.png
+Content Type: image/png
+
+Uri: /assets/images/trinity-logo-rus.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\trinity-logo-rus.svg
+Content Type: image/svg+xml
+
+Uri: /assets/images/UAG_logo.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\UAG_logo.png
+Content Type: image/png
+
+Uri: /assets/images/white.svg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\images\white.svg
+Content Type: image/svg+xml
+
+Uri: /assets/js/bundle.js?=24082018
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\js\bundle.js
+Content Type: application/javascript
+
+Uri: /assets/js/bundle.js?=25082018
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\assets\js\bundle-1.js
+Content Type: application/javascript
+
+Uri: /bitrix/cache/css/s1/iport.playlists/kernel_main/kernel_main.css?15350296773040
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\bitrix\cache\css\s1\iport.playlists\kernel_main\kernel_main.css
+Content Type: text/css
+
+Uri: /bitrix/cache/css/s1/iport.playlists/template_970da777295a2c5d8fb29520acb8a60d/template_970da777295a2c5d8fb29520acb8a60d.css?1536148165111589
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\bitrix\cache\css\s1\iport.playlists\template_970da777295a2c5d8fb29520acb8a60d\template_970da777295a2c5d8fb29520acb8a60d.css
+Content Type: text/css
+
+Uri: /bitrix/cache/css/s1/iport/kernel_main/kernel_main.css?15350296803040
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\bitrix\cache\css\s1\Sound wave fest\kernel_main\kernel_main.css
+Content Type: text/css
+
+Uri: /bitrix/cache/css/s1/iport/template_970da777295a2c5d8fb29520acb8a60d/template_970da777295a2c5d8fb29520acb8a60d.css?1536148305111589
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\bitrix\cache\css\s1\Sound wave fest\template_970da777295a2c5d8fb29520acb8a60d\template_970da777295a2c5d8fb29520acb8a60d.css
+Content Type: text/css
+
+Uri: /bitrix/cache/js/s1/iport.playlists/kernel_main/kernel_main.js?1535030468115163
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\bitrix\cache\js\s1\iport.playlists\kernel_main\kernel_main.js
+Content Type: application/javascript
+
+Uri: /bitrix/cache/js/s1/iport/kernel_main/kernel_main.js?1535029682115163
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\bitrix\cache\js\s1\Sound wave fest\kernel_main\kernel_main.js
+Content Type: application/javascript
+
+Uri: /bitrix/js/main/core/images/panel/top-panel-sprite-2.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\bitrix\js\main\core\images\panel\top-panel-sprite-2.png
+Content Type: image/png
+
+Uri: /font/Activist.woff
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\font\Activist.woff
+Content Type: application/x-font-woff
+
+Uri: /font/MenoeGrotesquePro-Italic.woff
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\font\MenoeGrotesquePro-Italic.woff
+Content Type: application/x-font-woff
+
+Uri: /font/MenoeGrotesquePro-Italic.woff2
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\font\MenoeGrotesquePro-Italic.woff2
+Content Type: 
+
+Uri: /font/MenoeGrotesquePro-Regular.woff
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\font\MenoeGrotesquePro-Regular.woff
+Content Type: application/x-font-woff
+
+Uri: /font/MenoeGrotesquePro-Regular.woff2
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\font\MenoeGrotesquePro-Regular.woff2
+Content Type: 
+
+Uri: /font/webfonts/3700C2_0_0.eot
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\font\webfonts\3700C2_0_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: /font/webfonts/3700C2_0_0.eot?
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\font\webfonts\3700C2_0_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: /font/webfonts/3700C2_0_0.ttf
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\font\webfonts\3700C2_0_0.ttf
+Content Type: 
+
+Uri: /font/webfonts/3700C2_0_0.woff
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\font\webfonts\3700C2_0_0.woff
+Content Type: application/x-font-woff
+
+Uri: /font/webfonts/3700C2_0_0.woff2
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\font\webfonts\3700C2_0_0.woff2
+Content Type: 
+
+Uri: /lineup/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\lineup\index.htm
+Content Type: text/html
+
+Uri: /p/chayld-frendli/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\p\chayld-frendli\index.htm
+Content Type: text/html
+
+Uri: /p/energiya-emotsiy/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\p\energiya-emotsiy\index.htm
+Content Type: text/html
+
+Uri: /p/fudkort-/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\p\fudkort-\index.htm
+Content Type: text/html
+
+Uri: /p/v-span-ne-span-realnost/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\p\v-span-ne-span-realnost\index.htm
+Content Type: text/html
+
+Uri: /playlists/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\playlists\index.htm
+Content Type: text/html
+
+Uri: /selfie/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\selfie\index.htm
+Content Type: text/html
+
+Uri: /upload/технологии внутренняя 2_result.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\технологии внутренняя 2_result.jpg
+Content Type: image/jpeg
+
+Uri: /upload/технологии внутренняя 3_result.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\технологии внутренняя 3_result.jpg
+Content Type: image/jpeg
+
+Uri: /upload/banner1.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\banner1.jpg
+Content Type: image/jpeg
+
+Uri: /upload/bu.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\bu.jpg
+Content Type: image/jpeg
+
+Uri: /upload/bushe.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\bushe.jpg
+Content Type: image/jpeg
+
+Uri: /upload/children.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\children.jpg
+Content Type: image/jpeg
+
+Uri: /upload/doeat.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\doeat.jpg
+Content Type: image/jpeg
+
+Uri: /upload/festival.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\festival.jpg
+Content Type: image/jpeg
+
+Uri: /upload/frank.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\frank.jpg
+Content Type: image/jpeg
+
+Uri: /upload/hummus.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\hummus.jpg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/08c/08c75387f4f5f4c1740b5b25a34a6b3a.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\08c\08c75387f4f5f4c1740b5b25a34a6b3a.jpg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/0c3/0c3ec421afd119c50cbfb52f769ed3db.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\0c3\0c3ec421afd119c50cbfb52f769ed3db.png
+Content Type: image/png
+
+Uri: /upload/iblock/108/1082385e677e5733bd63b997820b783d.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\108\1082385e677e5733bd63b997820b783d.png
+Content Type: image/png
+
+Uri: /upload/iblock/172/172766bba2ce60a28689ac30e4e2e077.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\172\172766bba2ce60a28689ac30e4e2e077.png
+Content Type: image/png
+
+Uri: /upload/iblock/24d/24d631f020ee9c976e165232bb76e8d6.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\24d\24d631f020ee9c976e165232bb76e8d6.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/2f8/2f8b9392c0041993441092e816290f41.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\2f8\2f8b9392c0041993441092e816290f41.png
+Content Type: image/png
+
+Uri: /upload/iblock/3d1/3d140f7b2ea0d2ab7421cdc3238601e9.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\3d1\3d140f7b2ea0d2ab7421cdc3238601e9.png
+Content Type: image/png
+
+Uri: /upload/iblock/44c/44c23913eedce3b92e9c749017d644f0.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\44c\44c23913eedce3b92e9c749017d644f0.png
+Content Type: image/png
+
+Uri: /upload/iblock/469/469930dcf1527d51c144086f8e358f20.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\469\469930dcf1527d51c144086f8e358f20.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/48a/48a5dbcd43e2e592c71702ea745f393f.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\48a\48a5dbcd43e2e592c71702ea745f393f.png
+Content Type: image/png
+
+Uri: /upload/iblock/574/57476e0adf18f5ecc6d7336b73ba2262.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\574\57476e0adf18f5ecc6d7336b73ba2262.png
+Content Type: image/png
+
+Uri: /upload/iblock/57d/57d46588ad1d4efe62970758aafcf303.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\57d\57d46588ad1d4efe62970758aafcf303.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/709/709d01856df200afbc46f85df2db9912.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\709\709d01856df200afbc46f85df2db9912.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/716/71613defb082ba96c317f7ef2f448a5b.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\716\71613defb082ba96c317f7ef2f448a5b.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/7f0/7f0c058ecb8a1c83894c9637035d31b9.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\7f0\7f0c058ecb8a1c83894c9637035d31b9.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/875/875135623e2c04fde1c2310e7e107db1.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\875\875135623e2c04fde1c2310e7e107db1-1.png
+Content Type: image/png
+
+Uri: /upload/iblock/8e4/8e485a065c7b64dcf89e20aafb8b1562.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\8e4\8e485a065c7b64dcf89e20aafb8b1562.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/92f/92f7b88d4ff591fbc8eef484575e8208.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\92f\92f7b88d4ff591fbc8eef484575e8208.png
+Content Type: image/png
+
+Uri: /upload/iblock/97b/97b4730518fcab66e7e84dc3aa2f559d.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\97b\97b4730518fcab66e7e84dc3aa2f559d.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/9b1/9b1734a7324caf6e6955956c67d9fe29.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\9b1\9b1734a7324caf6e6955956c67d9fe29.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/9ba/9ba349ba92ef4b5fb502597a49cbe7f4.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\9ba\9ba349ba92ef4b5fb502597a49cbe7f4.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/9e9/9e9dd9a21450aa308e44f57bd98c5feb.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\9e9\9e9dd9a21450aa308e44f57bd98c5feb.png
+Content Type: image/png
+
+Uri: /upload/iblock/a3a/a3afa6e2d3e7ab99ace708ade19a1869.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\a3a\a3afa6e2d3e7ab99ace708ade19a1869.jpg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/b0d/b0d3b17c8ac28e25193f5afcaab0a7f3.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\b0d\b0d3b17c8ac28e25193f5afcaab0a7f3.png
+Content Type: image/png
+
+Uri: /upload/iblock/b18/b1864cb344a33e62466055b386a54e00.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\b18\b1864cb344a33e62466055b386a54e00.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/bb0/bb0e1d522698e11cf31eee542c00d225.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\bb0\bb0e1d522698e11cf31eee542c00d225.png
+Content Type: image/png
+
+Uri: /upload/iblock/bce/bceb1b249169590218ddd6b2d773a3d9.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\bce\bceb1b249169590218ddd6b2d773a3d9-1.png
+Content Type: image/png
+
+Uri: /upload/iblock/c5c/c5cdc00f6e69dc265915867af14bd68c.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\c5c\c5cdc00f6e69dc265915867af14bd68c.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/d94/d94697e88365daf462984aced1a67959.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\d94\d94697e88365daf462984aced1a67959.png
+Content Type: image/png
+
+Uri: /upload/iblock/e47/e47eb8cc39d508e7766160eecc79af17.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\e47\e47eb8cc39d508e7766160eecc79af17.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/e58/e585c63d2cd159c0a8b8e658c8768dee.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\e58\e585c63d2cd159c0a8b8e658c8768dee.jpg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/eeb/eeb4d10351e437a6053cee5f2950553d.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\eeb\eeb4d10351e437a6053cee5f2950553d.jpg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/eed/eedd83f5c2359f8125bb627a1eaabee8.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\eed\eedd83f5c2359f8125bb627a1eaabee8.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/iblock/f9d/f9d9cb4bf59c95787a27b28b8fbe951c.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\f9d\f9d9cb4bf59c95787a27b28b8fbe951c.png
+Content Type: image/png
+
+Uri: /upload/iblock/fc4/fc4121add647b21e3ee5aa67974ff401.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\fc4\fc4121add647b21e3ee5aa67974ff401.png
+Content Type: image/png
+
+Uri: /upload/iblock/fce/fcef7d47a562b59b572231165af71bc3.png
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\fce\fcef7d47a562b59b572231165af71bc3-1.png
+Content Type: image/png
+
+Uri: /upload/iblock/fec/fec6d054cf218614e21ce9640cda7989.jpeg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\iblock\fec\fec6d054cf218614e21ce9640cda7989.jpeg
+Content Type: image/jpeg
+
+Uri: /upload/jbl.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\jbl.jpg
+Content Type: image/jpeg
+
+Uri: /upload/shutterstock_199419065_result.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\shutterstock_199419065_result.jpg
+Content Type: image/jpeg
+
+Uri: /upload/shutterstock_437259922 (1)_result.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\shutterstock_437259922 (1)_result.jpg
+Content Type: image/jpeg
+
+Uri: /upload/shutterstock_724112986 (1)_result.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\shutterstock_724112986 (1)_result.jpg
+Content Type: image/jpeg
+
+Uri: /upload/vandog.jpg
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\upload\vandog.jpg
+Content Type: image/jpeg
+
+Uri: https://spb.kassir.ru/start-frame.js
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\start-frame.js
+Content Type: application/javascript
+
+Uri: https://widget.cloudpayments.ru/bundles/cloudpayments/
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\bundles\cloudpayments\index.htm
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=651847318509249&ev=PageView
+&noscript=1
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\tr
+Content Type: text/plain
+
+Uri: https://www.youtube.com/iframe_api
+File Name: D:\Downloaded Web Sites\Sound wave festfest.ru\iframe_api
+Content Type: text/javascript
+
